@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
-- -Maria Heloísa
+- Maria Heloísa - Análise e Desenvolvimento de Sistemas
 
 ## Combinados do time
 
