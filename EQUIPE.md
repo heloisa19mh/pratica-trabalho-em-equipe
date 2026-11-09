@@ -3,6 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
+- -Maria Heloísa
 
 ## Combinados do time
 
